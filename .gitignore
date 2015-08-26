@@ -1,0 +1,8 @@
+# MAGENTO CACHE
+var/cache/
+
+# MAGENTO CONFIGURATION
+app/etc/local.xml
+
+# MAGENTO SESSION DATA
+var/session/
